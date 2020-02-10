@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is our second slide in this presentation.
+"Time is but an illusion" You need to get back to work.
 Use the left arrow to go back!
